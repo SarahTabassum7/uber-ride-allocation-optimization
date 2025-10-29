@@ -27,5 +27,6 @@ Python (Pandas, NumPy), SQL, Power BI, Excel
 
 ## Screenshots
 
-Add charts of predicted vs. actual demand, region-level trends, and allocation KPIs.
+Regression Analysis  
+![Regression Analysis](assets/regression-analysis.png)
 
