@@ -30,3 +30,4 @@ Python (Pandas, NumPy), SQL, Power BI, Excel
 Regression Analysis  
 ![Regression Analysis](assets/regression-analysis.png)
 
+[Back to my GitHub profile](https://github.com/SarahTabassum7)
